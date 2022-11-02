@@ -31,7 +31,8 @@ dependencies {
 
     implementation(libs.kord.extensions)
     implementation(libs.kotlin.stdlib)
-    implementation(libs.jsoup)
+
+    implementation(libs.scrimage)
 
     // Logging dependencies
     implementation(libs.logback)
